@@ -1,0 +1,25 @@
+{
+  "api": [
+    {
+      "id": 1,
+      "age": "99",
+      "name": "Jacob Bay Petersen",
+      "email": "jacobbayp@gmail.com",
+      "gender": "male"
+    },
+    {
+      "id": 2,
+      "age": "23",
+      "name": "Sarah Zinnia Hansen",
+      "email": "sarah@hotmail.com",
+      "gender": "female"
+    },
+    {
+      "id": 3,
+      "age": "233",
+      "name": "Sarah Zinnia Hansen",
+      "email": "jacobbayp@gmail.com",
+      "gender": "male"
+    }
+  ]
+}
